@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260814446455",
+    "firebase_url": "https://dwfirebaseproject-d5415.firebaseio.com",
+    "project_id": "dwfirebaseproject-d5415",
+    "storage_bucket": "dwfirebaseproject-d5415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260814446455:android:8242f0461dd40fa73ecb72",
+        "android_client_info": {
+          "package_name": "com.example.dankookworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260814446455-7hu8pj8b8ma97pvol5ff126k4bokqtgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dankookworld",
+            "certificate_hash": "cb81f2d5e3b6d03588efae2db64d5d27704a1e6c"
+          }
+        },
+        {
+          "client_id": "260814446455-gbe2jpglt16jbp73l8ennpfn7nv32nq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ01s5GuObWVXsR95PWtk_waOGM9M5MdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260814446455-gbe2jpglt16jbp73l8ennpfn7nv32nq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
